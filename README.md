@@ -1,11 +1,11 @@
 ![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif)
 # Hello 👋, I'm Ibrahim Al-Rasheed
-<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/F3FF.gif">
+![](<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/F3FF.gif">)
 
 # 💫 About Me:
 👨‍💻 A passionate Computer Scientist who loves to learn new things every day<br> 
 💪I enjoy taking on challenges that enhance my knowledge and skills<br>
-📋 I partook in multiple projects including Computer-Assisted Instruction (CAI) program to help<br>
+📋 I have done multiple projects including Computer-Assisted Instruction (CAI) program to help
 Elementary students with multiplication questions, Digital Phonebook, To-do list App, and many more...<br>
 🔭 I’m currently working on an Educational Chatbot and a Financial AI Advisor<br>🌱 I’m currently learning Figma and Flutter
 
