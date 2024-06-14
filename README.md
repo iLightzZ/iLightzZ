@@ -1,6 +1,6 @@
-[![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif)]
+![MasterHead](https://cdn.dribbble.com/users/330915/screenshots/3587000/media/cf9c914d04e017ab821bab2ee0bb87cb.gif)
 # Hello 👋, I'm Ibrahim Al-Rasheed
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/F3FF.gif">
+<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/F3FF.gif">
 
 # 💫 About Me:
 👨‍💻 A passionate Computer Scientist who loves to learn new things every day<br> 
