@@ -8,7 +8,7 @@
 Elementary students with multiplication questions, Digital Phonebook, To-do list App, and many more...<br>
 🔭 I’m currently working on an Educational Chatbot and a Financial AI Advisor<br>🌱 I’m currently learning Figma and Flutter
 
-(<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/F3FF.gif">)
+![]<img align="right" alt="Coding" width="1000" src="https://i.gifer.com/F3FF.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-alrasheed-8a1167268)
