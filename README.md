@@ -1,5 +1,8 @@
 # Hello 👋, I'm Ibrahim Al-Rasheed
 # 💫 About Me:
+A passionate Computer Scientist who loves to learn new things every day. I enjoy taking on challenges that enhance my knowledge and skills. I partook in multiple projects including Computer-Assisted Instruction (CAI) program to help
+Elementary students with multiplication questions, Digital Phonebook, To-do list App, and many more...<br>
+
 🔭 I’m currently working on an Educational Chatbot and a Financial AI Advisor<br>🌱 I’m currently learning Figma and Flutter
 
 
